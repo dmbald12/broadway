@@ -3,15 +3,18 @@ body {
   text-align: center;
 }
 
-nav a {
-  font-size: 18px;
+.bkg-needed {
   color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+nav a {
+  font-size: 18px
 }
 
 h1 {
   font-size: 70px;
   font-weight: bold;
-  color: white;
 }
 
 h2 {
@@ -35,6 +38,6 @@ p {
   text-align: left;
 }
 
-.footer a {
+a {
   color: white;
 }
